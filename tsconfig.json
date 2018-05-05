@@ -1,6 +1,7 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+  	"allowJs": true, //增加一行，允许编译JavaScript文件
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
     "sourceMap": true,
